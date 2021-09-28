@@ -1,3 +1,3 @@
 # coursera-test
 
-Testing again.
+Coursera test repository
